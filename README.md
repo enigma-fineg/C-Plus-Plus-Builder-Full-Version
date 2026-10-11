@@ -241,4 +241,4 @@ This repository serves as the official landing page for C++Builder. The software
 **Get the most recent version of C++Builder today!**
 
 ---
-**Last updated:** 2026-10-11 03:49:40 UTC
+**Last updated:** 2026-10-11 10:34:22 UTC
